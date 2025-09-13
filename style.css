@@ -1,3 +1,13 @@
-body{
-    background-color: blue;
+
+img{
+    width: 400px;
+}
+
+.vinculos{
+    font-style: italic;
+    color: darkgrey;
+}
+
+video{
+    width: 400px;
 }
